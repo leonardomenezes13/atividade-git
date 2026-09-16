@@ -1,1 +1,2 @@
 Segundo arquivo da atividade 
+Alteração feita diretamente na branch main pelo GitHub.
